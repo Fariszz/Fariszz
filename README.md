@@ -1,11 +1,11 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />Hi 👋, I'm Muhammad Faris hadi Mulyo</h1>
 <h3 align="center">Saya adalah Mahasiswa D3 Jurusan Manajemen Informatika di Politeknik Negeri Malang</h3>
 
-- 🌱 I’m currently learning **MERN, DevOps**
+- 🌱 I’m currently learning **MERN, DevOps, Laravel**
 
 - 📫 How to reach me **ziraflyo@gmail.com**
 
-- ⚡ Fun fact **Suka Nasgor,Olahraga,dan KAMU**
+- ⚡ Fun fact **Suka Nasgor,Basket,dan KAMU**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
