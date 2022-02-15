@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />Hi 👋, I'm Muhammad Faris hadi Mulyo</h1>
 <h3 align="center">Saya adalah Mahasiswa D3 Jurusan Manajemen Informatika di Politeknik Negeri Malang</h3>
 
-- 🌱 I’m currently learning **MERN, DevOps, Laravel**
+- 🌱 I’m currently learning **Golang, DevOps, Laravel, Flutter**
 
 - 📫 How to reach me **ziraflyo@gmail.com**
 
