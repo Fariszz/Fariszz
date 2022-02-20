@@ -27,8 +27,9 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fariszz&show_icons=true&locale=en&layout=compact" alt="fariszz" /></p>
 
 <br/>
- 
- ![Muhammad Faris](https://github-readme-stats.vercel.app/api?username=Fariszz&theme=gruvbox&show_icons=false)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Fariszz&layout=compact&theme=gruvbox)
+
+![Muhammad Faris](https://github-readme-stats.vercel.app/api?username=Fariszz&theme=gruvbox&show_icons=false)
 
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=Fariszz&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
