@@ -28,8 +28,7 @@
 
 <br/>
 
-![My Github Status](https://github-readme-stats.vercel.app/api?username=Fariszz&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000&theme=radical)
-
+![Faris GitHub stats](https://github-readme-stats.vercel.app/api?username=Fariszz&theme=radical&show_icons=true)
 <hr>
 
 </div>
