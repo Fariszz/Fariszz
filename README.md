@@ -1,4 +1,4 @@
-<h1 align="center"><img width="60" src="https://c.tenor.com/Weyin7lqYhsAAAAj/rainbowcat.gif">Hi 👋, I'm Muhammad Faris hadi Mulyo</h1>
+<h1 align="center"><img width="60" src="https://c.tenor.com/RGTKIMlyTJoAAAAi/rolling-cat-cat-rolling.gif">Hi 👋, I'm Muhammad Faris hadi Mulyo</h1>
 <h3 align="center">Saya adalah Mahasiswa D3 Jurusan Manajemen Informatika di Politeknik Negeri Malang</h3>
 
 - 🌱 I’m currently learning **Golang, DevOps, Laravel, Flutter**
