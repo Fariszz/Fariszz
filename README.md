@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />Hi 👋, I'm Muhammad Faris hadi Mulyo</h1>
+<h1 align="center"><div class="tenor-gif-embed" data-postid="22772946" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/rolling-cat-cat-rolling-purple-gif-22772946">Rolling Cat Cat Rolling Sticker</a>from <a href="https://tenor.com/search/rolling+cat-stickers">Rolling Cat Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>Hi 👋, I'm Muhammad Faris hadi Mulyo</h1>
 <h3 align="center">Saya adalah Mahasiswa D3 Jurusan Manajemen Informatika di Politeknik Negeri Malang</h3>
 
 - 🌱 I’m currently learning **Golang, DevOps, Laravel, Flutter**
