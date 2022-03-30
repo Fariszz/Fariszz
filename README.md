@@ -29,6 +29,7 @@
 <br/>
 
 ![Faris GitHub stats](https://github-readme-stats.vercel.app/api?username=Fariszz&theme=radical&show_icons=true)
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Fariszz.Fariszz)
 <hr>
 
 </div>
