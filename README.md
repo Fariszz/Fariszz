@@ -1,7 +1,7 @@
 <h1 align="center"><img width="60" src="https://c.tenor.com/RGTKIMlyTJoAAAAi/rolling-cat-cat-rolling.gif">Hi 👋, I'm Muhammad Faris hadi Mulyo</h1>
 <h3 align="center">Saya adalah Mahasiswa D4 Sistem Informasi Bisnis di Politeknik Negeri Malang</h3>
 
-- 🌱 I’m currently learning **Golang, DevOps, Laravel, Flutter**
+- 🌱 I’m currently learning **Backend Engineering**
 
 - 📫 How to reach me **ziraflyo@gmail.com**
 
