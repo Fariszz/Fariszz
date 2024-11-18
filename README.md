@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Backend Engineering**
 
-- 📫 How to reach me **ziraflyo@gmail.com**
-
-- ⚡ Fun fact **Suka Nasgor,Basket,dan KAMU**
+- 📫 How to reach me **muhfarishalyo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
