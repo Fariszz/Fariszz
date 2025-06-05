@@ -55,7 +55,7 @@
 - **Java Developer** - Koneksi Strategis Indonesia *(Jakarta | September 2024 - Present)*  
    I specialize in developing middleware solutions using Java, seamlessly integrating them with SAP systems. My role involves designing and implementing efficient data exchange processes between various applications, ensuring smooth and secure system communication to support business operations.
 
-- **Back End Developer** - Private Startup *(Remote | Mei 2024 - Present)*  
+- **Back End Developer** - Chup Online Sdn.Bhd *(Remote | Mei 2024 - June - 2025)*  
  developing a scalable clinic management system using NestJS and Laravel, integrating multiple modules for patient management, appointments, medical records, billing, and inventory to optimize healthcare operations.
 
 For more about my career journey, please check my [LinkedIn](https://www.linkedin.com/in/muhammad-faris-hadi-mulyo/).
