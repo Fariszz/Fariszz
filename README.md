@@ -3,7 +3,7 @@
 
 <p align="center">
  <a href="mailto:muhfarishalyo@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- <a href="https://www.linkedin.com/in/muhammad-faris-hadi-mulyo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/muhfarishalyo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="https://www.upwork.com/freelancers/~01debd012b7ce60804" target="_blank"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
  <a href="https://muhfarishadimulyo.my.id/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
